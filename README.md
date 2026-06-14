@@ -72,7 +72,17 @@ python main.py
 
 ## Screenshots
 
-Add screenshots here.
+### Main Interface
+
+The application detecting hand landmarks in real time using MediaPipe and OpenCV.
+
+![Main Interface](images/main_interface.png)
+
+### Laser Pointer Mode
+
+Laser pointer functionality controlled using hand gestures for presentation assistance.
+
+![Laser Pointer](images/laser_pointer.png)
 
 ## Learning Outcomes
 
